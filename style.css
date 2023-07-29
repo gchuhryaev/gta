@@ -1,0 +1,178 @@
+.header {
+  background-image: url("./img/Background.jpg");
+  padding-top: 171px;
+  min-height: 600px;
+}
+.menu {
+  display: flex;
+  gap: 10px;
+  color: white;
+  list-style: none;
+  font-size: 25px;
+}
+.menu a {
+  justify-content: left;
+  color: white;
+  font-size: 20px;
+}
+.conteiner {
+  max-width: 1110px;
+  width: 100%;
+  margin: 0 auto;
+}
+.header-top {
+  display: flex;
+  justify-content: space-between;
+}
+.text {
+  color: white;
+  font-size: 50px;
+}
+.texti {
+  color: white;
+  font-size: 20px;
+}
+.textin {
+  color: white;
+  font-size: 15px;
+}
+.txt {
+    font-weight: 400;
+    size: 18px;
+    height: 50px;
+}
+ .about {
+     padding-top: 93px;
+     padding-bottom: 76px;
+ }
+ .blockthree {
+     background-color: 
+     #FFFAF2;
+ }
+ .indicator {
+  background-color: #f5d6ab;
+  width: 446px;
+  height: 24px;
+}
+.progress {
+  background-color: #c66c49;
+  width: 336px;
+  height: 100%;
+}
+.tripoloski {
+    display: flex;
+    gap: 125px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+body {
+font-family: sans-serif;
+}
+.indicator {
+background-color: #f5d6ab;
+width: 446px;
+height: 24px;
+}
+.progress {
+background-color: #c66c49;
+width: 336px;
+height: 100%;
+}
+.pic1 {
+width: 350px;
+height: 144px;
+background-image: url(./img/Rectangle.png);
+}
+.pic2 {
+width: 349px;
+height: 255px;
+background-image: url(./img/Rectangle\ \(1\).png);
+background-repeat: no-repeat;
+}
+.pic3 {
+width: 363px;
+height: 241px;
+background-image: url(./img/dom-luis-bridge-porto-carol-japp.png);
+background-repeat: no-repeat;
+}
+.pic4 {
+width: 255px;
+height: 144px;
+background-image: url(./img/Rectangle\ \(2\).png);
+background-repeat: no-repeat;
+}
+
+.img-gallery {
+display: flex;
+gap: 30px;
+}
+
+.gallery-left,
+.gallery-rihgt {
+display: flex;
+
+gap: 26px;
+flex-flow: column wrap;
+}
+.columns {
+display: flex;
+}
+.li {
+width: 75px;
+height: 22px;
+font-size: 18px;
+color: #333333;
+}
+.gallery-left {
+flex-direction: column;
+
+}
+.gallery-rihgt {
+flex-direction: column;
+gap: 18px;
+}
+.blockfive {
+background-color: #FFFAF2;
+}
+.columns li {
+padding-bottom: 14px;
+}
+.UX {
+color: #333333;
+font-size: 18px;
+width: 141.21px;
+}
+.txt33 {
+color: #333333;
+display: flex;
+max-width: 349px;
+padding-top: 5px;
+margin: 0;
+}
+.tblim {
+display: flex;
+gap: 125px;
+}
+.arrow {
+font-size: 24px;
+color: #333333;
+background-color: transparent;
+border: none;
+}
+.controls {
+flex-grow: 1;
+display: flex;
+align-items: flex-end;
+}
+.textblfour {
+display: flex;
+flex-direction: column;
+}

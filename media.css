@@ -1,0 +1,41 @@
+@media screen and (max-width: 1440px) {
+    .text {
+      font-size: 30px;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .conteiner {
+      max-width: 740px;
+    }
+    .text {
+        text-align: center;
+    }
+    .texti {
+        text-align: center;
+    }
+    .textin {
+        text-align: center;
+    }
+    .tripoloski {
+        flex-direction: column;
+    }}
+   @media screen and (max-width: 768px) {
+     .tblim {
+       flex-direction: column;
+   }}
+   @media screen and (max-width: 425px) {
+     .img-gallery {
+       flex-direction: column;
+     }}
+    @media screen and (max-width: 375px) {
+      .tripoloski {
+        max-width: 375px;
+      }}
+      @media screen and (max-width: 320px) {
+        .tripoloski {
+          max-width: 320px;
+      }}
+      @media screen and (max-width: 320px) {
+        li {
+          max-width: 320px;
+      }}
